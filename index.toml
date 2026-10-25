@@ -278,11 +278,6 @@ hash = "5f694b0c16bfbf69b05cb28eef7a553ae548e623bc2cbccc98e01d950d3611db"
 metafile = true
 
 [[files]]
-file = "mods/inventory-profiles-next.pw.toml"
-hash = "e7820822a31d29cf5227b19046d7e84e73b7ae3e689c96e5fbdf1f8073b6f9ad"
-metafile = true
-
-[[files]]
 file = "mods/iris.pw.toml"
 hash = "6ee94689dd67f0210e07feafac8140e8968bcbcd67defcfbdcd677cf78943900"
 metafile = true
@@ -300,11 +295,6 @@ metafile = true
 [[files]]
 file = "mods/legendary-monuments.pw.toml"
 hash = "472b9738be68a463a80e7fda2e8986742b6cb67f75102c97740e5160fdc3e275"
-metafile = true
-
-[[files]]
-file = "mods/libipn.pw.toml"
-hash = "78eafe609d6474acab89104fe0f47d15c00348974c1d4d9b95599ee20a213dbe"
 metafile = true
 
 [[files]]
