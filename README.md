@@ -20,5 +20,8 @@ Modpack de Cobblemon feito por **Lani**.
 ## O que tem
 
 - **Cobblemon** e add-ons populares: Mega Showdown (megas e Z-moves), Cobblenav (PokeNav), Cobblemon Additions, Cobbreeding, Radical Cobblemon Trainers, Fight or Flight, Capture XP, CobbleDollars, Legendary Monuments, MissingMons, SimpleTMs, CobbleFurnies, Cobblepedia, Catch Rate Display, UI Tweaks e More Cobblemon Tweaks.
-- **Desempenho:** Sodium, Lithium, FerriteCore, ModernFix, Entity Culling.
-- **Extras:** Iris (shaders), Xaero's Minimap e World Map, EMI, Mod Menu.
+- **Desempenho:** Sodium, Lithium, FerriteCore, ModernFix, Entity Culling, More Culling, Krypton.
+- **Animações:** Fresh Animations (Extensions, Details, Objects e Player Extension) com Entity Model/Texture Features.
+- **Shaders (Iris):** Bliss, BSL, Complementary Reimagined, MakeUp Ultra Fast e Photon. Nenhum vem selecionado; tecla **F10** liga/desliga.
+- **Qualidade de vida:** Jade, Waystones, Xaero's Minimap e World Map, EMI, Inventory Profiles Next, Zoomify, Ping Wheel, Better Advancements e outros.
+- **Teclas e resource packs** já vêm configurados, sem conflito, e os packs já entram ativos na ordem certa.
