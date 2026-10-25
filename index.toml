@@ -193,11 +193,6 @@ hash = "1f99171b8e23441d463e890f02b7f6c023043a66f73db5d630fb491e1621742d"
 metafile = true
 
 [[files]]
-file = "mods/continuity.pw.toml"
-hash = "4f97764f3cb4c74f84afbe32cf8a1d2cefecda129c0f1441906562dcb8f2b8cb"
-metafile = true
-
-[[files]]
 file = "mods/controlling.pw.toml"
 hash = "eecdc8127f69c74ff55fd183d1f1d7d5ef3e714d73845a239fe9e086147a67b1"
 metafile = true
@@ -238,6 +233,11 @@ hash = "67d66056831b3e44afb5d32b76b9d89f8e442cf18e7a74fcdfa94bc8a0cc4a63"
 metafile = true
 
 [[files]]
+file = "mods/euphoria-patches.pw.toml"
+hash = "c1f2d0a1537909b2b2c37aa8576af52f21b6f52ee18048310e48ab7169b87f57"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "9645e76b2915aa43b0918e1ef20e1c01b64ba9073e35c8bcd70cf34af8ab604e"
 metafile = true
@@ -270,11 +270,6 @@ metafile = true
 [[files]]
 file = "mods/iceberg.pw.toml"
 hash = "c104293981bbfbf0b194c9428e8ec71fd980e80d80050204a83835a01deeecf3"
-metafile = true
-
-[[files]]
-file = "mods/indium.pw.toml"
-hash = "5f694b0c16bfbf69b05cb28eef7a553ae548e623bc2cbccc98e01d950d3611db"
 metafile = true
 
 [[files]]
@@ -358,11 +353,6 @@ hash = "198274db49aedbf973dcd8121aeb80de866342e2fc2fd63ebffbaa8e378ca6f9"
 metafile = true
 
 [[files]]
-file = "mods/moreculling.pw.toml"
-hash = "8d013469f5b94e1150927ef3c8d985070222fa61f8c7122173304ffb80363c40"
-metafile = true
-
-[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "7fc969e77edc3b0b9946b42070fd858349a74555f0cf9648907241af8a3a2d25"
 metafile = true
@@ -428,11 +418,6 @@ hash = "321b6bb2cb567a6c7750ddd44c293a87bcc3e756df63cf6dba44d0c401b8bc8d"
 metafile = true
 
 [[files]]
-file = "mods/reeses-sodium-options.pw.toml"
-hash = "f8c2abb9b0f43207b6fdfd96d9168aa35a4781034179e3a89b47f3f34c193ed9"
-metafile = true
-
-[[files]]
 file = "mods/resource-pack-overrides.pw.toml"
 hash = "60e41d7d2de8b6300fcd3e9d86bfac8922edbc7b2d659c6075911ddbc4829556"
 metafile = true
@@ -460,11 +445,6 @@ metafile = true
 [[files]]
 file = "mods/simpletms-tms-and-trs-for-cobblemon.pw.toml"
 hash = "27f2a11921312246d216d0c0c021f9c2602e5a06fb17ba6f8c12ee8542d8826a"
-metafile = true
-
-[[files]]
-file = "mods/sodium-extra.pw.toml"
-hash = "006a4eff494be9b351aaa0ce827f5a0e0ecbae167070e03c2601a9bf4cce5dc1"
 metafile = true
 
 [[files]]
