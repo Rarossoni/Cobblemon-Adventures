@@ -6,15 +6,25 @@ hash = "0552cd76a48241a43c534bac366567070e0246d312124c10939deaf9170af653"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "51b5e863568a546a7ede78a9179d1618149a4265a7cd802eaa861027bc93b706"
+hash = "30cc99f3cd55c1da2c7b83354994f040291ec0a474bd69eb2d369c2942bfdb86"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
 hash = "5cfb638b4238d06eb1888b76907e373e5fdcf15783c0bde97bf2432bd8416920"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "21dfa9e779823eb37404ff87561e83b5169686b518b7e42d20aa72f30f9487d9"
+metafile = true
+
+[[files]]
 file = "mods/accessories.pw.toml"
 hash = "ba7432aebc67e37b6adc4ccd296599dc0fd383f55d2026e79d3f7bb28fc2a89f"
+metafile = true
+
+[[files]]
+file = "mods/amendments.pw.toml"
+hash = "050ab41090da1bc716b5c302cc44ee6645458ee324e44cb7b6f705572e406468"
 metafile = true
 
 [[files]]
@@ -238,6 +248,11 @@ hash = "1811d49906aa7a1e7f1230535c6fec91be45129d028f7900cf35571a497e42b3"
 metafile = true
 
 [[files]]
+file = "mods/farmers-delight-refabricated.pw.toml"
+hash = "f2dd3bcc1e38d91445004d43d84ed98f1e6c4c7284f0b91a80ca01129740044a"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "1d5799cd3b6ea714602c18546b99ba894e7511835b77803304792468fb7ee187"
 metafile = true
@@ -245,6 +260,11 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "238b3ceb4214a682480ce00eefae5d34efa299ff6ff667e4b2f2ed503c6e76ee"
+metafile = true
+
+[[files]]
+file = "mods/handcrafted.pw.toml"
+hash = "2600fb5f2efa6dffd1bcc04eea4c2646c101da4320da0c88d5616d5c2f41a439"
 metafile = true
 
 [[files]]
@@ -268,18 +288,8 @@ hash = "6ee94689dd67f0210e07feafac8140e8968bcbcd67defcfbdcd677cf78943900"
 metafile = true
 
 [[files]]
-file = "mods/item-highlighter.pw.toml"
-hash = "d4cc5eb15f8287ccf25849a183feb07ffe80eeab05c7080e7ac6fb17065a7149"
-metafile = true
-
-[[files]]
 file = "mods/jade.pw.toml"
 hash = "fd56a0cff0fa0172c35309f52e7bf76731abde661b03977bc8380bba687cbe98"
-metafile = true
-
-[[files]]
-file = "mods/krypton.pw.toml"
-hash = "c4e45594c8d1ab3dacc3b49142f16fb253178dd31d97cc917bf4a4d54f21e081"
 metafile = true
 
 [[files]]
@@ -308,6 +318,31 @@ hash = "6507abf4b8a62f88641ff236e708e940268844f3c717e4c799c4848077b2f0bf"
 metafile = true
 
 [[files]]
+file = "mods/lootr.pw.toml"
+hash = "2bcb1edcb91a1fb3ee71aab8a0916845c8be3b10cc39128bf118bbd94205679c"
+metafile = true
+
+[[files]]
+file = "mods/macaws-bridges.pw.toml"
+hash = "64a76f06453440a51ad0f51a27904144987527dcfede6f186c0eba93e1d92497"
+metafile = true
+
+[[files]]
+file = "mods/macaws-doors.pw.toml"
+hash = "d493b5164056f1de520b7a41873dc86af406089932ee71bab9d1c01e4747a0b5"
+metafile = true
+
+[[files]]
+file = "mods/macaws-roofs.pw.toml"
+hash = "8d4ecc66f120419b4bc09fdd14151d2a207ddec30b46ae2184300fec0031b092"
+metafile = true
+
+[[files]]
+file = "mods/macaws-windows.pw.toml"
+hash = "6803e0debba4fb27c735ccb139d26ae4c7744b8a7d2ac500d4f56b1d411faeea"
+metafile = true
+
+[[files]]
 file = "mods/missingmons-cobblemon.pw.toml"
 hash = "b5fd0f5908a1ba4703edae2e485553d0cdfacdaf95f8ba63f0849ea5035545c2"
 metafile = true
@@ -320,6 +355,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "62f164a7b7c8731436389dc1855862d1eb1fa73fd76407b0fb8d129b7b6f00a9"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "4f7d256a29e93b1620275b39f340d0819de92b744f35b0e53a3dbeb587b9d9bf"
 metafile = true
 
 [[files]]
@@ -443,6 +483,21 @@ hash = "869af67848bf3b9ba4384bc9fb0cbe303d35263bd8de75eeabcba796edf4d7c6"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-backpacks-unoffical-fabric-port.pw.toml"
+hash = "a4eebb2bda9daccc5444b8bd2d91f4ee8ce2325dd51436cb785ca33530b98ecd"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core-unofficial-fabric-port.pw.toml"
+hash = "693fdc79c18086a2a939b45de97ca918d895d5a4247d2a0bba94bf53661bc705"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage-unofficial-fabric-port.pw.toml"
+hash = "f2feec4a404ea1ebff1cbc8ef801d074fc8c4a528af064fd9c125f5c9e57c824"
+metafile = true
+
+[[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "f58afbe79ea14087160830efff055c08955fc7321fc27137810e5da2f548426c"
 metafile = true
@@ -450,6 +505,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "9bdd041fb29ab003ef5bb1f0ba53516847e32e3010a3fce247f743fc98e08a6b"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "604c61f3caadb7f3a5eb2991d84fa56655faa2f7e6e98d13d3027659cfcf00b1"
 metafile = true
 
 [[files]]
