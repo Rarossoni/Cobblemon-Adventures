@@ -5,6 +5,10 @@ file = "README.md"
 hash = "58e1a9b408b1d4489af37a024e7a8035e29ba58037e8110b29d35bbb9d29df9a"
 
 [[files]]
+file = "config/resourcepackoverrides.json"
+hash = "c1f740a918592dbf0e876224247552056e8dff31b73ccab5ae53ae37a9d972eb"
+
+[[files]]
 file = "mods/accessories.pw.toml"
 hash = "ba7432aebc67e37b6adc4ccd296599dc0fd383f55d2026e79d3f7bb28fc2a89f"
 metafile = true
@@ -27,6 +31,11 @@ metafile = true
 [[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "dd56ff2bcc4253d1d70c08333632743fb56cdc4cf5518dc6afc024164633145d"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "d4e5754ace89491be15f81ec923c0a6a7be37a344cc6677a0ce4d013c2d7fbb7"
 metafile = true
 
 [[files]]
@@ -190,8 +199,18 @@ hash = "a0a3d38daafb58117aaf29bb0b0520534abb7175e8d98f63cb47a65c75afac79"
 metafile = true
 
 [[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "fe1ea345a6ad680c070f4c3e67d070d1751da45f578af22613a4e6ae0586120c"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "9097ec87434086c9a6ec3bdec9a25f65a4a6baefd7d37ab2a90a96e279550698"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "d48e8cd62f6c1d9f9c61313e1912b4f4413e112827deaa847760b3269a3d67d0"
 metafile = true
 
 [[files]]
@@ -320,6 +339,11 @@ hash = "f3c5cb21ff2e78c7e8cdbd14d1535e6edd464d5a436dbfa4e60b8ea91374674d"
 metafile = true
 
 [[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "920f38e9647202e8f98de3343fe062b835986d9243283c7333ad3f303201edd8"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "31e7b4d016cbdf3f0abbb1ab202cf60e84ff8330ebbf6f043739128fb9133fad"
 metafile = true
@@ -352,6 +376,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "f8c2abb9b0f43207b6fdfd96d9168aa35a4781034179e3a89b47f3f34c193ed9"
+metafile = true
+
+[[files]]
+file = "mods/resource-pack-overrides.pw.toml"
+hash = "60e41d7d2de8b6300fcd3e9d86bfac8922edbc7b2d659c6075911ddbc4829556"
 metafile = true
 
 [[files]]
@@ -390,6 +419,11 @@ hash = "501175884d743a1c675efe1cdd440ba26a1e772e486fd4c8af3aa581623398af"
 metafile = true
 
 [[files]]
+file = "mods/waystones.pw.toml"
+hash = "442c13fe3b1f0462adf895bbab49388967cafc294f56c57d2d4b1db6b0b24d53"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "25d77bb50e59fc77453331092501f6f336ffeff6e0fe3fba7336be6115a09761"
 metafile = true
@@ -407,4 +441,34 @@ metafile = true
 [[files]]
 file = "mods/zoomify.pw.toml"
 hash = "96f866de9f3ebaa42dfcb92392684c241ff189f82ce24c3e7a32c1d0b8f37db8"
+metafile = true
+
+[[files]]
+file = "resourcepacks/better-leaves.pw.toml"
+hash = "c48ec89d45ded46b3409380ed4dd8a621a9c7b43c1e2d9d7e1e29d66218c25a4"
+metafile = true
+
+[[files]]
+file = "resourcepacks/cobblemon-interface.pw.toml"
+hash = "b8954167511f6be98a3b2a63ff1771c54b2a9f1f74b81cff5c8c0d5bfc5e4726"
+metafile = true
+
+[[files]]
+file = "resourcepacks/e19_cobblemon_minimap_icons.pw.toml"
+hash = "91a0f255821cb2398f6cea5a93c15f81766eaac73ed9faf852486a076c30b4b1"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations-details.pw.toml"
+hash = "c73f584a24d7b4a93b4471f065b403208b05ca5fe1602482454e9bb5711dfad5"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations-extensions.pw.toml"
+hash = "789ceb8c118b1fadb26f852d06ad009c4d78e220318abdfc846cb77fc60ab0fc"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "0562ddfc6689ff8a0004d2804788e9781870288ffdf1b56dcb042d98d305873f"
 metafile = true
