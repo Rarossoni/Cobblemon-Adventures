@@ -1,0 +1,61 @@
+# Cobblemon Adventures: teclas padrao do pack (mod Default Options).
+# Formato: key_<nome>:<tecla>[:<SHIFT|CONTROL|ALT>]  -  "key.keyboard.unknown" = sem tecla.
+# Quem ja jogava so recebe a tecla nova se nunca tiver mudado aquela tecla.
+# Em Opcoes > Controles > "Redefinir" tudo volta para o que esta aqui.
+# Teclas que nao aparecem aqui ficam no padrao do proprio mod.
+
+# --- Vanilla: liberando teclas pouco usadas ---------------------------------
+key_key.socialInteractions:key.keyboard.unknown
+key_key.saveToolbarActivator:key.keyboard.unknown
+key_key.loadToolbarActivator:key.keyboard.unknown
+
+# --- Cobblemon (padrao do mod): R lancar Pokemon - M resumo - O esconder time ---
+# As outras teclas do pack ficam fora dessas.
+
+# --- Z: zoom -------------------------------------------------------------------
+key_zoomify.key.zoom:key.keyboard.z
+key_zoomify.key.zoom.secondary:key.keyboard.unknown
+
+# --- N: mapa / U: waypoints (Xaero) --------------------------------------------
+key_gui.xaero_open_map:key.keyboard.n
+key_gui.xaero_waypoints_key:key.keyboard.u
+key_gui.xaero_instant_waypoint:key.keyboard.keypad.add
+key_gui.xaero_new_waypoint:key.keyboard.b
+key_gui.xaero_minimap_settings:key.keyboard.unknown
+key_gui.xaero_open_settings:key.keyboard.unknown
+key_gui.xaero_enlarge_map:key.keyboard.unknown
+
+# --- Voz: P menu - , mutar microfone - Caps Lock falar -------------------------
+key_key.voice_chat:key.keyboard.p
+key_key.mute_microphone:key.keyboard.comma
+key_key.push_to_talk:key.keyboard.caps.lock
+key_key.disable_voice_chat:key.keyboard.unknown
+key_key.voice_chat_group:key.keyboard.unknown
+key_key.hide_icons:key.keyboard.unknown
+
+# --- Shaders (Iris): F10 liga/desliga ------------------------------------------
+key_iris.keybind.toggleShaders:key.keyboard.f10
+key_iris.keybind.shaderPackSelection:key.keyboard.unknown
+key_iris.keybind.reload:key.keyboard.unknown
+
+# --- Cobblemon extras ------------------------------------------------------------
+# Taxa de captura: K mostra/esconde, . compara (G e o Fight or Flight)
+key_key.catchrate.toggle_hud:key.keyboard.k
+key_key.catchrate.show_comparison:key.keyboard.period
+key_key.fightorflight.startbattle:key.keyboard.g
+key_key.more_cobblemon_tweaks.open_config:key.keyboard.f9
+
+# --- Quests (FTB): J ---------------------------------------------------------------
+key_key.ftbquests.quests:key.keyboard.j
+
+# --- Outros: X marcar no mapa (Ping Wheel) - V trocar ofertas (Trade Cycling) -----
+key_key.pingwheel.ping_location:key.keyboard.x
+key_key.pingwheel.open_settings:key.keyboard.unknown
+key_key.trade_cycling.cycle_trades:key.keyboard.v
+
+# --- Talking Heads: ` (crase) liga/desliga, para nao brigar com o H ------------------
+key_talkingheads.keybinding.modToggle:key.keyboard.grave
+key_talkingheads.keybinding.modSettings:key.keyboard.unknown
+
+# --- Acessorios: H (a tecla de esconder icones da voz foi liberada) ------------------
+key_accessories.key.open_accessories_screen:key.keyboard.h
