@@ -10,7 +10,7 @@ hash = "30cc99f3cd55c1da2c7b83354994f040291ec0a474bd69eb2d369c2942bfdb86"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "5cfb638b4238d06eb1888b76907e373e5fdcf15783c0bde97bf2432bd8416920"
+hash = "d53fece76a168d34d0497d508a03db7b8bdcaad6c9355e94c74258b0053ce40b"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -643,8 +643,28 @@ hash = "c48ec89d45ded46b3409380ed4dd8a621a9c7b43c1e2d9d7e1e29d66218c25a4"
 metafile = true
 
 [[files]]
+file = "resourcepacks/cobblemon-3d-poke-rods.pw.toml"
+hash = "3d21df711e3207a6cd4b5b27ed73c8c9634f3dde2514289116f6d450a3273938"
+metafile = true
+
+[[files]]
+file = "resourcepacks/cobblemon-classic-grass-pack.pw.toml"
+hash = "1639f3f5a5afe82f04b2b5b2854a9f4b88519b1a659f106a47b513a321cd8d20"
+metafile = true
+
+[[files]]
+file = "resourcepacks/cobblemon-interface-modded.pw.toml"
+hash = "dcdabc6afb2aed0905bcb891f8538dde4f515985d2f68b1550e6dd0c2123ccdc"
+metafile = true
+
+[[files]]
 file = "resourcepacks/cobblemon-interface.pw.toml"
 hash = "b8954167511f6be98a3b2a63ff1771c54b2a9f1f74b81cff5c8c0d5bfc5e4726"
+metafile = true
+
+[[files]]
+file = "resourcepacks/comforts-modernized.pw.toml"
+hash = "07446a078aba9c59e4c8ca1b351e949cfdcf63fa56b29257924b3d7704db4603"
 metafile = true
 
 [[files]]
@@ -683,8 +703,23 @@ hash = "0562ddfc6689ff8a0004d2804788e9781870288ffdf1b56dcb042d98d305873f"
 metafile = true
 
 [[files]]
+file = "resourcepacks/fully-hisuian-starters.pw.toml"
+hash = "33d11fc6830c7ae6122417719cc92def5d593ffc343bef3531d30ea2cd57f89f"
+metafile = true
+
+[[files]]
 file = "resourcepacks/icon-fresh.pw.toml"
 hash = "9678339e7c0a5c5250a4e8ab65f54bba236d42b6f5dfc082b1da7407de7dc508"
+metafile = true
+
+[[files]]
+file = "resourcepacks/tras-fresh-player.pw.toml"
+hash = "8b10ab0961ff45ce175d71e6cc3129c129d0e7caab9ad38b816f95a25d31e598"
+metafile = true
+
+[[files]]
+file = "resourcepacks/visual-travelers-titles.pw.toml"
+hash = "e113170d9a2c663010864c26f41cdc6d39f9313302e9bb6096e191ce8b6443c0"
 metafile = true
 
 [[files]]
