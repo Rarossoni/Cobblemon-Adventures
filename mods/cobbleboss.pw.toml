@@ -1,0 +1,13 @@
+name = "CobbleBoss"
+filename = "cobbleboss-6.0.0-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1O31TjSK/versions/uSdiTchw/cobbleboss-6.0.0-fabric.jar"
+hash-format = "sha512"
+hash = "4aaa08fccaed974f5408a367035f90379865db2dd261d7f167ebd73e5b9345ec438acd9b4e1b7f4a28573d446307489bd523dadefebac5287176094e1eee054a"
+
+[update]
+[update.modrinth]
+mod-id = "1O31TjSK"
+version = "uSdiTchw"

@@ -1,0 +1,13 @@
+name = "Cobblemon: Underground Mining Minigame"
+filename = "pickaxeminigame-2.1.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dKugrhWI/versions/SJ0uYG3N/pickaxeminigame-2.1.5.jar"
+hash-format = "sha512"
+hash = "5a523aee416ee320b6f05434b737cfbb34d17b9a564e44ab136f53797c633afecc64273ba9521112f2158e6c0b2c0543c1a53ea5471a12d3c4ddd7b03c283ee5"
+
+[update]
+[update.modrinth]
+mod-id = "dKugrhWI"
+version = "SJ0uYG3N"
