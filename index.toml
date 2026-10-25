@@ -10,7 +10,7 @@ hash = "30cc99f3cd55c1da2c7b83354994f040291ec0a474bd69eb2d369c2942bfdb86"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "f0d8e41554b7373269310918cb63afc904a2a52712e545a6f7eac257edcc1b15"
+hash = "dcc32f22c5f5a987e5e18ebcb8506eddb37a2440e9eb0084718d18e79e9fe210"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -706,6 +706,10 @@ metafile = true
 file = "resourcepacks/icon-fresh.pw.toml"
 hash = "9678339e7c0a5c5250a4e8ab65f54bba236d42b6f5dfc082b1da7407de7dc508"
 metafile = true
+
+[[files]]
+file = "resourcepacks/lani-hud-fix.zip"
+hash = "a6900048a0ff49d67da1c3efd19ca69fa8fe31c8d32575ee86ae1a4feae69ef4"
 
 [[files]]
 file = "resourcepacks/tras-fresh-player.pw.toml"
