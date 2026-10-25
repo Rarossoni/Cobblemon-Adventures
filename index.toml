@@ -10,7 +10,7 @@ hash = "30cc99f3cd55c1da2c7b83354994f040291ec0a474bd69eb2d369c2942bfdb86"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "d53fece76a168d34d0497d508a03db7b8bdcaad6c9355e94c74258b0053ce40b"
+hash = "f0d8e41554b7373269310918cb63afc904a2a52712e545a6f7eac257edcc1b15"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -700,11 +700,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "0562ddfc6689ff8a0004d2804788e9781870288ffdf1b56dcb042d98d305873f"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fully-hisuian-starters.pw.toml"
-hash = "33d11fc6830c7ae6122417719cc92def5d593ffc343bef3531d30ea2cd57f89f"
 metafile = true
 
 [[files]]
