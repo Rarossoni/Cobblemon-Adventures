@@ -139,11 +139,6 @@ hash = "66a9cc09a6862e2278b4646b058edde301aeeed41338645a5472551aa371ab3a"
 metafile = true
 
 [[files]]
-file = "mods/cobblemon-ride-on.pw.toml"
-hash = "83b653139fd115cebf5017264a5b11b18f1f9d2d3685c08bea7aa6bbc6554f7c"
-metafile = true
-
-[[files]]
 file = "mods/cobblemon-spawn-notification.pw.toml"
 hash = "d76c7e59e7c0b7ff72f7cd470118984a72b3c81d608d808bb6c7a41af2b47e7f"
 metafile = true
