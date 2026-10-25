@@ -190,6 +190,11 @@ hash = "321b6bb2cb567a6c7750ddd44c293a87bcc3e756df63cf6dba44d0c401b8bc8d"
 metafile = true
 
 [[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "d3f633dd12cd039a4e58dd398d1c80a324b0d78b9da5b3972b69640bfed211ed"
+metafile = true
+
+[[files]]
 file = "mods/simpletms-tms-and-trs-for-cobblemon.pw.toml"
 hash = "27f2a11921312246d216d0c0c021f9c2602e5a06fb17ba6f8c12ee8542d8826a"
 metafile = true
