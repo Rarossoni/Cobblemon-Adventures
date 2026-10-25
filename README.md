@@ -23,5 +23,5 @@ Modpack de Cobblemon feito por **Lani**.
 - **Desempenho:** Sodium, Lithium, FerriteCore, ModernFix, Entity Culling, More Culling, Krypton.
 - **Animações:** Fresh Animations (Extensions, Details, Objects e Player Extension) com Entity Model/Texture Features.
 - **Shaders (Iris):** Bliss, BSL, Complementary Reimagined, MakeUp Ultra Fast e Photon. Nenhum vem selecionado; tecla **F10** liga/desliga.
-- **Qualidade de vida:** Jade, Waystones, Xaero's Minimap e World Map, EMI, Inventory Profiles Next, Zoomify, Ping Wheel, Better Advancements e outros.
+- **Qualidade de vida:** Jade, Waystones, Xaero's Minimap e World Map, EMI, Inventory Profiles Next, Zoomify, Ping Wheel, Better Advancements e outros (sem luz dinâmica, os shaders já cuidam disso).
 - **Teclas e resource packs** já vêm configurados, sem conflito, e os packs já entram ativos na ordem certa.

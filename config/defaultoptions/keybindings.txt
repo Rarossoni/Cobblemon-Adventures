@@ -45,8 +45,6 @@ key_key.catchrate.show_comparison:key.keyboard.period
 key_key.fightorflight.startbattle:key.keyboard.g
 key_key.more_cobblemon_tweaks.open_config:key.keyboard.f9
 
-# --- Quests (FTB): J ---------------------------------------------------------------
-key_key.ftbquests.quests:key.keyboard.j
 
 # --- Outros: X marcar no mapa (Ping Wheel) - V trocar ofertas (Trade Cycling) -----
 key_key.pingwheel.ping_location:key.keyboard.x
@@ -54,7 +52,7 @@ key_key.pingwheel.open_settings:key.keyboard.unknown
 key_key.trade_cycling.cycle_trades:key.keyboard.v
 
 # --- Talking Heads: ` (crase) liga/desliga, para nao brigar com o H ------------------
-key_talkingheads.keybinding.modToggle:key.keyboard.grave
+key_talkingheads.keybinding.modToggle:key.keyboard.grave.accent
 key_talkingheads.keybinding.modSettings:key.keyboard.unknown
 
 # --- Acessorios: H (a tecla de esconder icones da voz foi liberada) ------------------

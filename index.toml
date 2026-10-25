@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "58e1a9b408b1d4489af37a024e7a8035e29ba58037e8110b29d35bbb9d29df9a"
+hash = "0552cd76a48241a43c534bac366567070e0246d312124c10939deaf9170af653"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "8cbe36c52475a955f5ced4de251a635979f1c1e7ca28908def6ff6332960b95f"
+hash = "51b5e863568a546a7ede78a9179d1618149a4265a7cd802eaa861027bc93b706"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
@@ -133,11 +133,6 @@ hash = "8584c4ddc7b0815a4eca637dbce6d222294e4f55c31aabaff927fd963a37feba"
 metafile = true
 
 [[files]]
-file = "mods/cobblemon-quests.pw.toml"
-hash = "64a38bd9a629d478a71a7b4c264c9ef1fa48c2f2d098ac15fd8b2981e2bbad86"
-metafile = true
-
-[[files]]
 file = "mods/cobblemon-repel.pw.toml"
 hash = "5ca833fd95c099d8caae0e0d9245135bbfa6089167675bc98cb482b4a5b06a74"
 metafile = true
@@ -253,21 +248,6 @@ hash = "238b3ceb4214a682480ce00eefae5d34efa299ff6ff667e4b2f2ed503c6e76ee"
 metafile = true
 
 [[files]]
-file = "mods/ftb-library-fabric.pw.toml"
-hash = "001bca75656dd0261916062aebba86b1cbdeb7de2d81379c2e1ba9b25c98bce7"
-metafile = true
-
-[[files]]
-file = "mods/ftb-quests-fabric.pw.toml"
-hash = "79a41bbb6d193f974abd4c7048e96502e737469ba80821373019da3d26000916"
-metafile = true
-
-[[files]]
-file = "mods/ftb-teams-fabric.pw.toml"
-hash = "28cddb0debd848debefee57a51cfab3a859db1fa49bb2d4ba214e80ed0781628"
-metafile = true
-
-[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "c104293981bbfbf0b194c9428e8ec71fd980e80d80050204a83835a01deeecf3"
 metafile = true
@@ -300,11 +280,6 @@ metafile = true
 [[files]]
 file = "mods/krypton.pw.toml"
 hash = "c4e45594c8d1ab3dacc3b49142f16fb253178dd31d97cc917bf4a4d54f21e081"
-metafile = true
-
-[[files]]
-file = "mods/lambdynamiclights.pw.toml"
-hash = "ebf0dae777cc19c354a662dc8144009dff7269b2d05624b4591fcb7de56fc14e"
 metafile = true
 
 [[files]]
