@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "0552cd76a48241a43c534bac366567070e0246d312124c10939deaf9170af653"
-
-[[files]]
 file = "config/defaultoptions/keybindings.txt"
 hash = "30cc99f3cd55c1da2c7b83354994f040291ec0a474bd69eb2d369c2942bfdb86"
 
