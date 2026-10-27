@@ -1,12 +1,36 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/badmobs.json"
-hash = "0d317cfb9699eb960b32dbefc3732bc7a70f5b6cd1bc7d77f5be414a3842ba65"
-
-[[files]]
 file = "config/defaultoptions/keybindings.txt"
 hash = "30cc99f3cd55c1da2c7b83354994f040291ec0a474bd69eb2d369c2942bfdb86"
+
+[[files]]
+file = "config/paxi/datapacks/lani-rules/data/lani/advancement/starter_kit.json"
+hash = "6c5fa4ce43c952420f04d85d86bfbd15436d31f28d478767f774f74f356bb553"
+
+[[files]]
+file = "config/paxi/datapacks/lani-rules/data/lani/function/cleanup.mcfunction"
+hash = "27892f742275adb1ad8428a42e14c7c25642370d5bdb834a7d85aa9a3ff2a4a8"
+
+[[files]]
+file = "config/paxi/datapacks/lani-rules/data/lani/function/rules.mcfunction"
+hash = "3c8d39a2de1abd7d10ab8850f870e78f9fa7da6b78f899cc009fa9c99ba0d065"
+
+[[files]]
+file = "config/paxi/datapacks/lani-rules/data/lani/function/starter_kit.mcfunction"
+hash = "8c625d9e91c004461e43c7b1852523e47c8cdfea994117b101b163ce40fedf4e"
+
+[[files]]
+file = "config/paxi/datapacks/lani-rules/data/lani/tags/entity_type/vanilla_mobs.json"
+hash = "da3aa0620e709c86112454631b8868e23b0844f13026c95ff258c483d5b1b978"
+
+[[files]]
+file = "config/paxi/datapacks/lani-rules/data/minecraft/tags/function/load.json"
+hash = "9e09d38661014aa2e58ff5bb137eb0c8ed159e340b93c18d9502fc802d310e2e"
+
+[[files]]
+file = "config/paxi/datapacks/lani-rules/pack.mcmeta"
+hash = "8e980444a9c063139bc846f02cdd729b820bf5c27ad5b900b59266ed4f20f412"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
@@ -40,11 +64,6 @@ metafile = true
 [[files]]
 file = "mods/athena-ctm.pw.toml"
 hash = "16f4aa64663e05ba013f9a38c69695e4086a6403575adb29b1379b417d28e519"
-metafile = true
-
-[[files]]
-file = "mods/bad-mobs-fabric.pw.toml"
-hash = "f9da1ebfd95e58f63bd29436606e1aab382d077366d5954b2dfef3c04eb27662"
 metafile = true
 
 [[files]]
@@ -428,11 +447,6 @@ hash = "f3c5cb21ff2e78c7e8cdbd14d1535e6edd464d5a436dbfa4e60b8ea91374674d"
 metafile = true
 
 [[files]]
-file = "mods/nohungermod.pw.toml"
-hash = "3dadc825b15a91bd7b7b63d1e45f7fc79a7f2997a99fe8b7d28d6a9b01e4eb2c"
-metafile = true
-
-[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "920f38e9647202e8f98de3343fe062b835986d9243283c7333ad3f303201edd8"
 metafile = true
@@ -455,6 +469,11 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "c0fb35b9b9754549845f905fa6651d7edc5227599bb4e32c4829ca1a975cd93e"
+metafile = true
+
+[[files]]
+file = "mods/paxi.pw.toml"
+hash = "4d327db95d15a81aa38ca20bcdfd573a0537360c898622d13b263b2d9c06cd8d"
 metafile = true
 
 [[files]]

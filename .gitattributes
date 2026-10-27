@@ -3,3 +3,5 @@
 *.txt text eol=lf
 *.zip binary
 *.md text eol=lf
+*.mcfunction text eol=lf
+*.mcmeta text eol=lf
