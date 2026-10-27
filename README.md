@@ -24,6 +24,7 @@ Modpack de Cobblemon feito por **Lani**.
 - **Animações:** Fresh Animations (Extensions, Details, Objects e Player Extension) com Entity Model/Texture Features.
 - **Shaders (Iris):** Bliss, BSL, Complementary Reimagined, MakeUp Ultra Fast e Photon. Nenhum vem selecionado; tecla **F10** liga/desliga.
 - **Qualidade de vida:** Jade, Waystones, Xaero's Minimap e World Map, EMI, Mochilas (Sophisticated Backpacks), Zoomify, Ping Wheel, Better Advancements e outros (sem luz dinâmica, os shaders já cuidam disso).
+- **Sem fome e sem mobs vanilla:** a barra de fome fica sempre cheia (NoHunger) e só Pokémon, treinadores e NPCs aparecem (Bad Mobs bloqueia os mobs do Minecraft, menos aldeões). Por isso o pack não tem mods de comida.
 - **Teclas e resource packs** já vêm configurados, sem conflito, e os packs já entram ativos na ordem certa.
 
 ## Teclas e resource packs não vieram configurados?
