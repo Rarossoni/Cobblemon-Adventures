@@ -82,7 +82,7 @@ hash = "8e980444a9c063139bc846f02cdd729b820bf5c27ad5b900b59266ed4f20f412"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "e74b109959baadc7750728f62436ff96dce801af60d338822f44bf1564a0c133"
+hash = "7ef7d407e9b98c0d0cc7a63b6389550355b40779e0463ef6fa01b367fb7d80af"
 
 [[files]]
 file = "config/xaero/minimap/profiles/entity_radar_categories/default.cfg.json"
@@ -91,6 +91,11 @@ hash = "50b7f24881400d3f192242a1ce207aedddf8db3a478b6c42491b19d637e14316"
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "21dfa9e779823eb37404ff87561e83b5169686b518b7e42d20aa72f30f9487d9"
+metafile = true
+
+[[files]]
+file = "mods/accessories-compat-layer.pw.toml"
+hash = "65fafb1360227deebc0ebebacacac77a39183588df734a02dc43199d7652b30d"
 metafile = true
 
 [[files]]
@@ -220,17 +225,12 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-mega-showdown.pw.toml"
-hash = "5db46959d2fa81e62428ffa4299c2368b9f7bea3bb8518828d423b35d413e131"
+hash = "b2b561dbbbeb422a9ab4b8e714db3f1a56c571c3f45536226fc9393e7ee1a82e"
 metafile = true
 
 [[files]]
 file = "mods/cobblemon-myths-and-legends-sidemod.pw.toml"
 hash = "dcddd73570fb0fdf95b42ed571983ad923612309c723e030b0875ea003fab8f1"
-metafile = true
-
-[[files]]
-file = "mods/cobblemon-pasture-loot.pw.toml"
-hash = "253284368b80980f3261e44b2a539db0a608f525c6adfe8f096803de0c8e9c90"
 metafile = true
 
 [[files]]
@@ -270,12 +270,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon.pw.toml"
-hash = "a1e55f05ea42a011c3a638719d7feca416fe48a6812f360df87bc5416bb36400"
-metafile = true
-
-[[files]]
-file = "mods/cobblemonmovedex.pw.toml"
-hash = "900bb3c60f4d94fc1af4c76b034469706d34264fab64e4a45ff53fcbee66eef4"
+hash = "7b456ba44d7ffde560f6a98edb9012fe17a8e47a74ff3701ec9026c07d5b2c62"
 metafile = true
 
 [[files]]
@@ -669,6 +664,11 @@ hash = "ffbe86f7b3e1108d5abae3d1a53a7d1ea62dc5a4ec83ed440781ddec228139a3"
 metafile = true
 
 [[files]]
+file = "mods/trinkets.pw.toml"
+hash = "860812150cb54f0d9ee1bce7b72798b6cc5f752bb05709f0c60231d054ec281d"
+metafile = true
+
+[[files]]
 file = "mods/veinminer.pw.toml"
 hash = "501175884d743a1c675efe1cdd440ba26a1e772e486fd4c8af3aa581623398af"
 metafile = true
@@ -776,11 +776,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/lani-fixes.zip"
 hash = "c77e278c74d41b96cfae732223f937f42b53a301cb382e6c67aea50fb109e482"
-
-[[files]]
-file = "resourcepacks/tras-fresh-player.pw.toml"
-hash = "8b10ab0961ff45ce175d71e6cc3129c129d0e7caab9ad38b816f95a25d31e598"
-metafile = true
 
 [[files]]
 file = "resourcepacks/visual-travelers-titles.pw.toml"
