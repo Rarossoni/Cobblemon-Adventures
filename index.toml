@@ -5,6 +5,54 @@ file = "config/defaultoptions/keybindings.txt"
 hash = "30cc99f3cd55c1da2c7b83354994f040291ec0a474bd69eb2d369c2942bfdb86"
 
 [[files]]
+file = "config/paxi/datapacks/lani-rules/data/cobblemon/callbacks/battle_victory/archie_battle_end.molang"
+hash = "d7780b804db5f657ba247c959b2d818f11636c6bf12af45a39b173b9a8919e16"
+
+[[files]]
+file = "config/paxi/datapacks/lani-rules/data/cobblemon/callbacks/battle_victory/calyrex_battle_end.molang"
+hash = "d7780b804db5f657ba247c959b2d818f11636c6bf12af45a39b173b9a8919e16"
+
+[[files]]
+file = "config/paxi/datapacks/lani-rules/data/cobblemon/callbacks/battle_victory/darkness_kouhai_battle_end.molang"
+hash = "d7780b804db5f657ba247c959b2d818f11636c6bf12af45a39b173b9a8919e16"
+
+[[files]]
+file = "config/paxi/datapacks/lani-rules/data/cobblemon/callbacks/battle_victory/darkness_senpai_battle_end.molang"
+hash = "d7780b804db5f657ba247c959b2d818f11636c6bf12af45a39b173b9a8919e16"
+
+[[files]]
+file = "config/paxi/datapacks/lani-rules/data/cobblemon/callbacks/battle_victory/darkness_shihandai_battle_end.molang"
+hash = "d7780b804db5f657ba247c959b2d818f11636c6bf12af45a39b173b9a8919e16"
+
+[[files]]
+file = "config/paxi/datapacks/lani-rules/data/cobblemon/callbacks/battle_victory/legendary_battle_end.molang"
+hash = "d7780b804db5f657ba247c959b2d818f11636c6bf12af45a39b173b9a8919e16"
+
+[[files]]
+file = "config/paxi/datapacks/lani-rules/data/cobblemon/callbacks/battle_victory/maxie_battle_end.molang"
+hash = "d7780b804db5f657ba247c959b2d818f11636c6bf12af45a39b173b9a8919e16"
+
+[[files]]
+file = "config/paxi/datapacks/lani-rules/data/cobblemon/callbacks/battle_victory/mustard_battle_end.molang"
+hash = "d7780b804db5f657ba247c959b2d818f11636c6bf12af45a39b173b9a8919e16"
+
+[[files]]
+file = "config/paxi/datapacks/lani-rules/data/cobblemon/callbacks/battle_victory/water_kouhai_battle_end.molang"
+hash = "d7780b804db5f657ba247c959b2d818f11636c6bf12af45a39b173b9a8919e16"
+
+[[files]]
+file = "config/paxi/datapacks/lani-rules/data/cobblemon/callbacks/battle_victory/water_senpai_battle_end.molang"
+hash = "d7780b804db5f657ba247c959b2d818f11636c6bf12af45a39b173b9a8919e16"
+
+[[files]]
+file = "config/paxi/datapacks/lani-rules/data/cobblemon/callbacks/battle_victory/water_shihandai_battle_end.molang"
+hash = "d7780b804db5f657ba247c959b2d818f11636c6bf12af45a39b173b9a8919e16"
+
+[[files]]
+file = "config/paxi/datapacks/lani-rules/data/cobblemon/callbacks/battle_victory/zinnia_battle_end.molang"
+hash = "d7780b804db5f657ba247c959b2d818f11636c6bf12af45a39b173b9a8919e16"
+
+[[files]]
 file = "config/paxi/datapacks/lani-rules/data/lani/advancement/starter_kit.json"
 hash = "6c5fa4ce43c952420f04d85d86bfbd15436d31f28d478767f774f74f356bb553"
 
@@ -35,6 +83,10 @@ hash = "8e980444a9c063139bc846f02cdd729b820bf5c27ad5b900b59266ed4f20f412"
 [[files]]
 file = "config/resourcepackoverrides.json"
 hash = "e74b109959baadc7750728f62436ff96dce801af60d338822f44bf1564a0c133"
+
+[[files]]
+file = "config/xaero/minimap/profiles/entity_radar_categories/default.cfg.json"
+hash = "50b7f24881400d3f192242a1ce207aedddf8db3a478b6c42491b19d637e14316"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
