@@ -210,12 +210,12 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-capture-xp.pw.toml"
-hash = "dd411e1ad70a7d70c8de081d796ea9b91a2ab61b759584be21368721fd1ae453"
+hash = "86ebb5c109405d3e26a22abe14c8ff12e46b310eaae8ab46dcbc5ed5c6b69cbe"
 metafile = true
 
 [[files]]
 file = "mods/cobblemon-counter.pw.toml"
-hash = "a7ee088ccfc3a6702725bbf488ae217eb3552115f6b42a8b20f896df961c88b0"
+hash = "19e32322358b2bb62bfb410da460c2a867fdc18cc7e6eff01d6d2eb7d2ef85c6"
 metafile = true
 
 [[files]]
@@ -255,12 +255,12 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-spawn-notification.pw.toml"
-hash = "d76c7e59e7c0b7ff72f7cd470118984a72b3c81d608d808bb6c7a41af2b47e7f"
+hash = "3ac88c802657adcdc183cdd20b651ab9e3d14c8a8f4094e83133d0966f06fc32"
 metafile = true
 
 [[files]]
 file = "mods/cobblemon-tim-core.pw.toml"
-hash = "563abb326a6742915852d969fd3cd3d63b7f754eb958c8b0878b708d7872d2b5"
+hash = "473262e30c9451517acf9e22aa8830102227eeaf64fcaa0cf359d9ec0c6fe00f"
 metafile = true
 
 [[files]]
