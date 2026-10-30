@@ -34,7 +34,7 @@ hash = "8e980444a9c063139bc846f02cdd729b820bf5c27ad5b900b59266ed4f20f412"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "dcc32f22c5f5a987e5e18ebcb8506eddb37a2440e9eb0084718d18e79e9fe210"
+hash = "e74b109959baadc7750728f62436ff96dce801af60d338822f44bf1564a0c133"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -722,8 +722,8 @@ hash = "9678339e7c0a5c5250a4e8ab65f54bba236d42b6f5dfc082b1da7407de7dc508"
 metafile = true
 
 [[files]]
-file = "resourcepacks/lani-hud-fix.zip"
-hash = "a6900048a0ff49d67da1c3efd19ca69fa8fe31c8d32575ee86ae1a4feae69ef4"
+file = "resourcepacks/lani-fixes.zip"
+hash = "c77e278c74d41b96cfae732223f937f42b53a301cb382e6c67aea50fb109e482"
 
 [[files]]
 file = "resourcepacks/tras-fresh-player.pw.toml"
