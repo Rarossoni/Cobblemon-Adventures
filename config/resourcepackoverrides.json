@@ -18,7 +18,9 @@
     "file/fresh-animations-objects.zip",
     "file/fa-player-extension.zip",
     "file/icon-fresh.zip",
-    "file/e19_cobblemon_minimap_icons.zip"
+    "file/e19_cobblemon_minimap_icons.zip",
+    "file/cobbleverse-rctmod-rp.zip",
+    "file/cobbleverse-rp.zip"
   ],
   "default_overrides": {
     "force_compatible": true

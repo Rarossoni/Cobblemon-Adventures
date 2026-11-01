@@ -9,12 +9,12 @@ file = "config/defaultoptions/keybindings.txt"
 hash = "f197384d937d1d0b46da8fb5162d0574fed672e12ec6b7a3144faba6a4749c0e"
 
 [[files]]
-file = "config/paxi/datapacks/COBBLEVERSE-DP-v19-CF.zip"
-hash = "c1e2773abbbb992d8b6aca03fbb6a0ac35035ba35559ccb718b17688859a74cd"
+file = "config/paxi/datapacks/COBBLEVERSE-DP-v31.zip"
+hash = "24344c64d49cad1e4743276472f5598ed32d1c002f5ebb881b9e0cf7bc1a77c6"
 
 [[files]]
-file = "config/paxi/datapacks/COBBLEVERSE-RCT-DP-v19.zip"
-hash = "0b9fd4a4e78852dd52f5cecb315426e48dab6daf880cb25abac26c596007e1a4"
+file = "config/paxi/datapacks/COBBLEVERSE-RCT-DP-v20.zip"
+hash = "54f0e8c1b061554bfba3de86dbcd9a6b39da4e8293e2b5141faa4254dc7ae400"
 
 [[files]]
 file = "config/paxi/datapacks/lani-rules/data/cobblemon/callbacks/battle_victory/archie_battle_end.molang"
@@ -98,7 +98,7 @@ hash = "1456a7fe0bfcce8b250abb1b7569d8e85848d61393d05d4fa950da9f3bf07907"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "7ef7d407e9b98c0d0cc7a63b6389550355b40779e0463ef6fa01b367fb7d80af"
+hash = "be3edb7088b3b26aaf7c015761c91875f6e4157bc126fbd3632a6793dd92ee66"
 
 [[files]]
 file = "config/xaero/minimap/profiles/entity_radar_categories/default.cfg.json"
@@ -763,6 +763,14 @@ metafile = true
 file = "resourcepacks/cobblemon-interface.pw.toml"
 hash = "b8954167511f6be98a3b2a63ff1771c54b2a9f1f74b81cff5c8c0d5bfc5e4726"
 metafile = true
+
+[[files]]
+file = "resourcepacks/cobbleverse-rctmod-rp.zip"
+hash = "2cec17def69ce520b07fab67eea8c51a94a410a981d50ca4673e463453530e7b"
+
+[[files]]
+file = "resourcepacks/cobbleverse-rp.zip"
+hash = "1282276ef83138bd674d4f48b8e160b12c195e4adfa840fc04d6abc134473612"
 
 [[files]]
 file = "resourcepacks/comforts-modernized.pw.toml"
