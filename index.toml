@@ -405,6 +405,11 @@ hash = "2600fb5f2efa6dffd1bcc04eea4c2646c101da4320da0c88d5616d5c2f41a439"
 metafile = true
 
 [[files]]
+file = "mods/huge-structure-blocks.pw.toml"
+hash = "d5c6fcaac4a43c86968c979413af0b019b23abc167733a7a452864b6e80076ef"
+metafile = true
+
+[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "c104293981bbfbf0b194c9428e8ec71fd980e80d80050204a83835a01deeecf3"
 metafile = true
