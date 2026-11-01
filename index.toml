@@ -13,6 +13,250 @@ file = "config/paxi/datapacks/COBBLEVERSE-RCT-DP-v19.zip"
 hash = "0b9fd4a4e78852dd52f5cecb315426e48dab6daf880cb25abac26c596007e1a4"
 
 [[files]]
+file = "config/paxi/datapacks/lani-gyms/data/cobbleverse/structure/blaine.nbt"
+hash = "f195f1e5b6c436c238731cc00e05b2b9b7a476f13a37f657c8b75f2174186110"
+
+[[files]]
+file = "config/paxi/datapacks/lani-gyms/data/cobbleverse/structure/brock.nbt"
+hash = "0cbc49a4d01773c588e8e8da3b8040912c92925a300e3382e78377322bd8e983"
+
+[[files]]
+file = "config/paxi/datapacks/lani-gyms/data/cobbleverse/structure/erika.nbt"
+hash = "2fe48ade1db52f56e5664402a0e440dcc0703a788c3146183a0e73fa3a2837db"
+
+[[files]]
+file = "config/paxi/datapacks/lani-gyms/data/cobbleverse/structure/giovanni.nbt"
+hash = "cf36a42b5956f24b0d6e2d7a3d2ca78d9f44d9278f29054d7c4a28a3e10a467b"
+
+[[files]]
+file = "config/paxi/datapacks/lani-gyms/data/cobbleverse/structure/kanto_league.nbt"
+hash = "8b1df7f6d6fc27ac33db2e4241d6264c073dc9724924fe188f90730d479d17d5"
+
+[[files]]
+file = "config/paxi/datapacks/lani-gyms/data/cobbleverse/structure/koga.nbt"
+hash = "c0a71444fb50240076044882b15082e319a6158440906f1f38be0606e3038a33"
+
+[[files]]
+file = "config/paxi/datapacks/lani-gyms/data/cobbleverse/structure/ltsurge.nbt"
+hash = "c2679b0b80ce733b70205cd3de3a66487e7b1dc568735d05188f5706712933ab"
+
+[[files]]
+file = "config/paxi/datapacks/lani-gyms/data/cobbleverse/structure/misty.nbt"
+hash = "923c82f896eebd927110215d371985ec4b1a4c54d3ced9da08a480e9783fcdb8"
+
+[[files]]
+file = "config/paxi/datapacks/lani-gyms/data/cobbleverse/structure/sabrina.nbt"
+hash = "5644a87a11fbc1a4b3478dd70886be3a2bf621270234efab17bb338d1fc8a338"
+
+[[files]]
+file = "config/paxi/datapacks/lani-gyms/data/cobbleverse/tags/worldgen/biome/cherry_grove.json"
+hash = "6ddf8f40a2532600a90b115ee5b20e8cae0199f0a17aadc9cee2195bd31865cf"
+
+[[files]]
+file = "config/paxi/datapacks/lani-gyms/data/cobbleverse/tags/worldgen/biome/crimson_forest.json"
+hash = "5104287422de27e1c0702848af27461a8b6232b54f7462538dd2e77e94ec35ce"
+
+[[files]]
+file = "config/paxi/datapacks/lani-gyms/data/cobbleverse/tags/worldgen/biome/dark_forest.json"
+hash = "ecf75f2076d080601bf4e318cee52d5b153bc5be443b334d4aa2e843633cc1e4"
+
+[[files]]
+file = "config/paxi/datapacks/lani-gyms/data/cobbleverse/tags/worldgen/biome/desert.json"
+hash = "594283bb70e915f9eee7b58179d48940b60b1167057181659ee31c9c0df97bb7"
+
+[[files]]
+file = "config/paxi/datapacks/lani-gyms/data/cobbleverse/tags/worldgen/biome/flower_forest.json"
+hash = "611eedb5ff6046fc98ada6f2078b4717c87e440198d0f71ebf8ad4c70ed74487"
+
+[[files]]
+file = "config/paxi/datapacks/lani-gyms/data/cobbleverse/tags/worldgen/biome/ice_spikes.json"
+hash = "18a81dd10d36d05cb15272ee0b44a8e6f13a7544da6e1823022508f4b28bcba3"
+
+[[files]]
+file = "config/paxi/datapacks/lani-gyms/data/cobbleverse/tags/worldgen/biome/lukewarm_ocean.json"
+hash = "acba16e12b568c018836e119c425cc4d9e75ff2eae5f760b736504a05fe6471e"
+
+[[files]]
+file = "config/paxi/datapacks/lani-gyms/data/cobbleverse/tags/worldgen/biome/lush_cave.json"
+hash = "291e45f3c28625bb62456ec0920b77bbf94ed5d5468a60523d27e5fda84046c3"
+
+[[files]]
+file = "config/paxi/datapacks/lani-gyms/data/cobbleverse/tags/worldgen/biome/plains.json"
+hash = "6bb9b2b34376ed49982623d219129f2f6f9162fb62539fb6660a792303149bbe"
+
+[[files]]
+file = "config/paxi/datapacks/lani-gyms/data/cobbleverse/tags/worldgen/biome/savanna_plateau.json"
+hash = "c334fca6fbf24352edbd419abfa8ab4a836a42cfc5dd23aa9e7d25a08dad241c"
+
+[[files]]
+file = "config/paxi/datapacks/lani-gyms/data/cobbleverse/tags/worldgen/biome/soul_sand_valley.json"
+hash = "dc3208763ae9b5a4084f8f548f68fed7b1c8e69a12d7dc2e964dd694c7b52027"
+
+[[files]]
+file = "config/paxi/datapacks/lani-gyms/data/cobbleverse/tags/worldgen/biome/sparse_jungle.json"
+hash = "069c33ed1c994a79198e39180175489ed1bc56ef8018e690c3018a6d385c34a7"
+
+[[files]]
+file = "config/paxi/datapacks/lani-gyms/data/cobbleverse/tags/worldgen/biome/swamp.json"
+hash = "9a67952d362668fd5b6096225e20abc26da6b19f0dea85d7501d7f3b471c42ae"
+
+[[files]]
+file = "config/paxi/datapacks/lani-gyms/data/cobbleverse/tags/worldgen/biome/taiga.json"
+hash = "045d069017380d58805e192b69a7eee78aafb16929f246e802db828f2a6a91d6"
+
+[[files]]
+file = "config/paxi/datapacks/lani-gyms/data/cobbleverse/tags/worldgen/biome/windswept_hills.json"
+hash = "ed95ecead475ac4bde29dbf1186cd1a8b384b81ed1169bb4fae2dab3fe6a232a"
+
+[[files]]
+file = "config/paxi/datapacks/lani-gyms/data/cobbleverse/tags/worldgen/structure/kanto_blaine_gym.json"
+hash = "1453613e498cbc9d998d5c94596f46c1583f201c501ea800eadf4e8c9c05f237"
+
+[[files]]
+file = "config/paxi/datapacks/lani-gyms/data/cobbleverse/tags/worldgen/structure/kanto_brock_gym.json"
+hash = "c837e676fdcbcb709c9a2a2a6d6e10957cac4efe19f3fed80904feab685eb25c"
+
+[[files]]
+file = "config/paxi/datapacks/lani-gyms/data/cobbleverse/tags/worldgen/structure/kanto_erika_gym.json"
+hash = "0f25d99cc604db956e4073188746e4c37491ce52fd42ef4c21a38d41d1a35586"
+
+[[files]]
+file = "config/paxi/datapacks/lani-gyms/data/cobbleverse/tags/worldgen/structure/kanto_giovanni_gym.json"
+hash = "9ebcd937726a74a96266380cb0a800fa969ec6202d01c2a346250215f38dd771"
+
+[[files]]
+file = "config/paxi/datapacks/lani-gyms/data/cobbleverse/tags/worldgen/structure/kanto_koga_gym.json"
+hash = "875b92622a74608705cbd6648a96e0825b1da818f275065812ad46de9c42b9b1"
+
+[[files]]
+file = "config/paxi/datapacks/lani-gyms/data/cobbleverse/tags/worldgen/structure/kanto_league_tower.json"
+hash = "a5e0fe41976a362ced65a3d8b5443a5faefd2a80101740ec6275f301de792469"
+
+[[files]]
+file = "config/paxi/datapacks/lani-gyms/data/cobbleverse/tags/worldgen/structure/kanto_ltsurge_gym.json"
+hash = "ddb149a1f8d3afddaacace4ad53c0bda018c4ec8a43b7df9877660c24da4d909"
+
+[[files]]
+file = "config/paxi/datapacks/lani-gyms/data/cobbleverse/tags/worldgen/structure/kanto_misty_gym.json"
+hash = "4399722cedb69cf09ff71a35839dc9129a0050cf1c251df131533a3384dba32e"
+
+[[files]]
+file = "config/paxi/datapacks/lani-gyms/data/cobbleverse/tags/worldgen/structure/kanto_sabrina_gym.json"
+hash = "f8650466668ea24e8bffd4dd0171b1a7c76037465801f87d7da6397da0583d41"
+
+[[files]]
+file = "config/paxi/datapacks/lani-gyms/data/cobbleverse/worldgen/structure/blaine.json"
+hash = "861eea53d77d54a866af7c14e39e138da530195046ac5a863b34b7e724c93b37"
+
+[[files]]
+file = "config/paxi/datapacks/lani-gyms/data/cobbleverse/worldgen/structure/brock.json"
+hash = "4baac01b9d906ed5471b14e5ab2b96282bbe9f5cd23119fb8cfb0090a355adeb"
+
+[[files]]
+file = "config/paxi/datapacks/lani-gyms/data/cobbleverse/worldgen/structure/erika.json"
+hash = "2571057896e9f401efa968fa43a79a8656d473f7aa5cb4afb631468daf447911"
+
+[[files]]
+file = "config/paxi/datapacks/lani-gyms/data/cobbleverse/worldgen/structure/giovanni.json"
+hash = "381e8dc4a5dbe36b925413c9f7ed1ab53880a34adc06fae816a11df3c96245fa"
+
+[[files]]
+file = "config/paxi/datapacks/lani-gyms/data/cobbleverse/worldgen/structure/kanto_league.json"
+hash = "62a4e740f19fafc72be607ff1cad2cfba7945c5779fde2a6406a4ce864a8657b"
+
+[[files]]
+file = "config/paxi/datapacks/lani-gyms/data/cobbleverse/worldgen/structure/koga.json"
+hash = "13a8d1768f36d8588daa25ee48d16799cf65ca7f149bdb78c80ad8ee3f294a84"
+
+[[files]]
+file = "config/paxi/datapacks/lani-gyms/data/cobbleverse/worldgen/structure/ltsurge.json"
+hash = "2bddbbb1f1f706283609f5cc87208aa5c00f08544123c8cd542165094608a17b"
+
+[[files]]
+file = "config/paxi/datapacks/lani-gyms/data/cobbleverse/worldgen/structure/misty.json"
+hash = "5b186af6ce5eac884b19e5c5d47de4df360a78e23e52b9c70ee48ecaf16562f2"
+
+[[files]]
+file = "config/paxi/datapacks/lani-gyms/data/cobbleverse/worldgen/structure/sabrina.json"
+hash = "d9bbe03e565636bdc3f0c09f98f5305806ef97fd781c686fcb210e508628e40d"
+
+[[files]]
+file = "config/paxi/datapacks/lani-gyms/data/cobbleverse/worldgen/structure_set/blaine.json"
+hash = "fdf88b84ce452bba736cf8c8541401170e5d8c99690a8fb4c3149ba30b9fa246"
+
+[[files]]
+file = "config/paxi/datapacks/lani-gyms/data/cobbleverse/worldgen/structure_set/brock.json"
+hash = "4a5304f20064cfe321096805eee0da6f8882d52c2d4cf0ccc2c6bd97f6b444e2"
+
+[[files]]
+file = "config/paxi/datapacks/lani-gyms/data/cobbleverse/worldgen/structure_set/erika.json"
+hash = "5e0b49497db92e7d5af50a37cc211e1ed583bf3fa62ffba11a51bf06a18b9f1d"
+
+[[files]]
+file = "config/paxi/datapacks/lani-gyms/data/cobbleverse/worldgen/structure_set/giovanni.json"
+hash = "9b9d560c25acfe065de74c4f7c187bf686ab05bbfedc8ad83f6346c0115f1c02"
+
+[[files]]
+file = "config/paxi/datapacks/lani-gyms/data/cobbleverse/worldgen/structure_set/kanto_league.json"
+hash = "20ad15f1844f56f3cbc01ea31bdddde980981b65a5ff6f98516763d33981dd07"
+
+[[files]]
+file = "config/paxi/datapacks/lani-gyms/data/cobbleverse/worldgen/structure_set/koga.json"
+hash = "3413395bd1c3727c64e555681cd14ee34fd4cf38a1fb064cd88e7cc84ffe5a89"
+
+[[files]]
+file = "config/paxi/datapacks/lani-gyms/data/cobbleverse/worldgen/structure_set/ltsurge.json"
+hash = "e43b31a0b03f9609060297a0acc4424edd69d049f02e7b0bb4820487b0e7480d"
+
+[[files]]
+file = "config/paxi/datapacks/lani-gyms/data/cobbleverse/worldgen/structure_set/misty.json"
+hash = "8d779cbb895d6a7f2f33f0d3267cd5d5d3e69edd2b746f04dbb1b41921b35414"
+
+[[files]]
+file = "config/paxi/datapacks/lani-gyms/data/cobbleverse/worldgen/structure_set/sabrina.json"
+hash = "b03b127f09ba313bfe0492e32300c3a6ebcda6a7bc9c6a29c06058444c9882b9"
+
+[[files]]
+file = "config/paxi/datapacks/lani-gyms/data/cobbleverse/worldgen/template_pool/blaine.json"
+hash = "52bde1aa4b1a82c8eb9239331888b03ad973126b3ee05611fa36f83b96cb5824"
+
+[[files]]
+file = "config/paxi/datapacks/lani-gyms/data/cobbleverse/worldgen/template_pool/brock.json"
+hash = "5031854d93a113c481bc572c3810ced10fffdc97061cdb5049fc3c3a92358e41"
+
+[[files]]
+file = "config/paxi/datapacks/lani-gyms/data/cobbleverse/worldgen/template_pool/erika.json"
+hash = "6f3490f0c3ec5d1815eeea54e15e5e0aa5bf297978629695acda028c9c72b7ba"
+
+[[files]]
+file = "config/paxi/datapacks/lani-gyms/data/cobbleverse/worldgen/template_pool/giovanni.json"
+hash = "8e1dc070b3c41c67a125949673ab2b5ae90df6f27c4e0d4413db3da7b7abe4f0"
+
+[[files]]
+file = "config/paxi/datapacks/lani-gyms/data/cobbleverse/worldgen/template_pool/kanto_league.json"
+hash = "de04296dcc3df2e406228d2aaa995d257c4a8f52b53a74f19d07a786b3155956"
+
+[[files]]
+file = "config/paxi/datapacks/lani-gyms/data/cobbleverse/worldgen/template_pool/koga.json"
+hash = "1e4c741ea0261281e63b247a288442582f7983a1b06574b1b8360643987f29cd"
+
+[[files]]
+file = "config/paxi/datapacks/lani-gyms/data/cobbleverse/worldgen/template_pool/ltsurge.json"
+hash = "ed971f84b184b961a31a97f625ba8e0c96e30cc78cddc4fd9f3507fb2d95fc80"
+
+[[files]]
+file = "config/paxi/datapacks/lani-gyms/data/cobbleverse/worldgen/template_pool/misty.json"
+hash = "5fb9bb3bf878efbeb87f90242e990fff3a8ab3dfa223abd6d749596c9da16c40"
+
+[[files]]
+file = "config/paxi/datapacks/lani-gyms/data/cobbleverse/worldgen/template_pool/sabrina.json"
+hash = "721f88bb9247d408b3edc345b637529461021561fc5e0ff9dd4158ae05fa7478"
+
+[[files]]
+file = "config/paxi/datapacks/lani-gyms/pack.mcmeta"
+hash = "8f0a0cf0596792c4706cbbc25fa605349661729dfa55a86012107cf454527952"
+
+[[files]]
 file = "config/paxi/datapacks/lani-rules/data/cobblemon/callbacks/battle_victory/archie_battle_end.molang"
 hash = "d7780b804db5f657ba247c959b2d818f11636c6bf12af45a39b173b9a8919e16"
 
