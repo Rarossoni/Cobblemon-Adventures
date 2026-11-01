@@ -1,0 +1,13 @@
+name = "TMCraft"
+filename = "tmcraft-1.4.19+1.8.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HU6mkUZs/versions/aZiPJqde/tmcraft-1.4.19%2B1.8.4.jar"
+hash-format = "sha512"
+hash = "7eadcca8c32c1ac4a9bca072e227c7f3988ab21173f6b57002a9a96b0d23afd7e49dd47800da65883d004118c6fdd1f7c0a93038ce2d4844f2caabb8a025ea9b"
+
+[update]
+[update.modrinth]
+mod-id = "HU6mkUZs"
+version = "aZiPJqde"

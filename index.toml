@@ -9,6 +9,10 @@ file = "config/defaultoptions/keybindings.txt"
 hash = "f197384d937d1d0b46da8fb5162d0574fed672e12ec6b7a3144faba6a4749c0e"
 
 [[files]]
+file = "config/paxi/datapacks/COBBLEVERSE-RCT-DP-v19.zip"
+hash = "0b9fd4a4e78852dd52f5cecb315426e48dab6daf880cb25abac26c596007e1a4"
+
+[[files]]
 file = "config/paxi/datapacks/lani-rules/data/cobblemon/callbacks/battle_victory/archie_battle_end.molang"
 hash = "d7780b804db5f657ba247c959b2d818f11636c6bf12af45a39b173b9a8919e16"
 
@@ -83,6 +87,10 @@ hash = "9e09d38661014aa2e58ff5bb137eb0c8ed159e340b93c18d9502fc802d310e2e"
 [[files]]
 file = "config/paxi/datapacks/lani-rules/pack.mcmeta"
 hash = "8e980444a9c063139bc846f02cdd729b820bf5c27ad5b900b59266ed4f20f412"
+
+[[files]]
+file = "config/rctmod-server.toml"
+hash = "1456a7fe0bfcce8b250abb1b7569d8e85848d61393d05d4fa950da9f3bf07907"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
@@ -280,6 +288,11 @@ metafile = true
 [[files]]
 file = "mods/cobblepedia.pw.toml"
 hash = "9ad38f6af18aa40e336f51314f6262cd0a8f3b6e2864f0216c5815efa71f4273"
+metafile = true
+
+[[files]]
+file = "mods/cobbleverse-badges.pw.toml"
+hash = "1ea3547c4de9f968efebd4aacedf11dad00069eceb4ae46b2aeb365a6d998e6c"
 metafile = true
 
 [[files]]
@@ -645,6 +658,11 @@ metafile = true
 [[files]]
 file = "mods/talkingheads.pw.toml"
 hash = "38d61b0cc277e299197ad61fbf7f38d929d8d9c56aab170346b37023306cbacc"
+metafile = true
+
+[[files]]
+file = "mods/tmcraft.pw.toml"
+hash = "f14ad7e83c42bc317686aed566d0b532da417d93411d1a950b434ff115b13cdb"
 metafile = true
 
 [[files]]
