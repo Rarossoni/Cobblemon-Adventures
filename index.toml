@@ -470,6 +470,11 @@ hash = "6803e0debba4fb27c735ccb139d26ae4c7744b8a7d2ac500d4f56b1d411faeea"
 metafile = true
 
 [[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "1d050a30412c6c7cb26b622b598b4211454116fb200a99425ba9440a167e9ec9"
+metafile = true
+
+[[files]]
 file = "mods/missingmons-cobblemon.pw.toml"
 hash = "b5fd0f5908a1ba4703edae2e485553d0cdfacdaf95f8ba63f0849ea5035545c2"
 metafile = true
@@ -582,6 +587,11 @@ metafile = true
 [[files]]
 file = "mods/rechiseled.pw.toml"
 hash = "8311ceecf046bb70b1ed83b297c268d2084fcb256ff6dd111f20308b2e780727"
+metafile = true
+
+[[files]]
+file = "mods/repurposed-structures-fabric.pw.toml"
+hash = "0939d3a0f8c4b3e376e3f0d04cf61ae8293608bf100fe89c82927968c7efa2c9"
 metafile = true
 
 [[files]]
