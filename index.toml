@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "30cc99f3cd55c1da2c7b83354994f040291ec0a474bd69eb2d369c2942bfdb86"
+hash = "f197384d937d1d0b46da8fb5162d0574fed672e12ec6b7a3144faba6a4749c0e"
 
 [[files]]
 file = "config/paxi/datapacks/lani-rules/data/cobblemon/callbacks/battle_victory/archie_battle_end.molang"
@@ -66,7 +66,7 @@ hash = "3c8d39a2de1abd7d10ab8850f870e78f9fa7da6b78f899cc009fa9c99ba0d065"
 
 [[files]]
 file = "config/paxi/datapacks/lani-rules/data/lani/function/starter_kit.mcfunction"
-hash = "8c625d9e91c004461e43c7b1852523e47c8cdfea994117b101b163ce40fedf4e"
+hash = "3a6a6bf984d7e494f67af9a48bc1603af4abe09c505f873f81e6ef3f89b37610"
 
 [[files]]
 file = "config/paxi/datapacks/lani-rules/data/lani/tags/entity_type/vanilla_mobs.json"
@@ -226,11 +226,6 @@ metafile = true
 [[files]]
 file = "mods/cobblemon-mega-showdown.pw.toml"
 hash = "b2b561dbbbeb422a9ab4b8e714db3f1a56c571c3f45536226fc9393e7ee1a82e"
-metafile = true
-
-[[files]]
-file = "mods/cobblemon-myths-and-legends-sidemod.pw.toml"
-hash = "dcddd73570fb0fdf95b42ed571983ad923612309c723e030b0875ea003fab8f1"
 metafile = true
 
 [[files]]

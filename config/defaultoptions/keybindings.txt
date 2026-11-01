@@ -1,69 +1,120 @@
 # Cobblemon Adventures: teclas padrao do pack (mod Default Options).
 # Formato: key_<nome>:<tecla>[:<SHIFT|CONTROL|ALT>]  -  "key.keyboard.unknown" = sem tecla.
+# Gerado a partir das teclas configuradas pelo Lani no jogo (2026-11-01).
 # Quem ja jogava so recebe a tecla nova se nunca tiver mudado aquela tecla.
 # Em Opcoes > Controles > "Redefinir" tudo volta para o que esta aqui.
-# Teclas que nao aparecem aqui ficam no padrao do proprio mod.
 
 # --- Vanilla: liberando teclas pouco usadas ---------------------------------
 key_key.socialInteractions:key.keyboard.unknown
 key_key.saveToolbarActivator:key.keyboard.unknown
 key_key.loadToolbarActivator:key.keyboard.unknown
 
-# --- Cobblemon (padrao do mod): R lancar Pokemon - M resumo - O esconder time ---
-# As outras teclas do pack ficam fora dessas.
-
-# --- Z: zoom -------------------------------------------------------------------
-key_zoomify.key.zoom:key.keyboard.z
-key_zoomify.key.zoom.secondary:key.keyboard.unknown
-
-# --- N: mapa / U: waypoints (Xaero) --------------------------------------------
-key_gui.xaero_open_map:key.keyboard.n
-key_gui.xaero_waypoints_key:key.keyboard.u
-key_gui.xaero_instant_waypoint:key.keyboard.keypad.add
-key_gui.xaero_new_waypoint:key.keyboard.unknown
-key_gui.xaero_minimap_settings:key.keyboard.unknown
-key_gui.xaero_open_settings:key.keyboard.unknown
-key_gui.xaero_enlarge_map:key.keyboard.unknown
-
-# --- Voz: P menu - ; mutar microfone - Caps Lock falar -------------------------
-key_key.voice_chat:key.keyboard.p
-key_key.mute_microphone:key.keyboard.semicolon
-key_key.push_to_talk:key.keyboard.caps.lock
-key_key.disable_voice_chat:key.keyboard.unknown
-key_key.voice_chat_group:key.keyboard.unknown
-key_key.hide_icons:key.keyboard.unknown
-
-# --- Shaders (Iris): F10 liga/desliga ------------------------------------------
-key_iris.keybind.toggleShaders:key.keyboard.f10
-key_iris.keybind.shaderPackSelection:key.keyboard.unknown
-key_iris.keybind.reload:key.keyboard.unknown
-
-# --- Cobblemon extras ------------------------------------------------------------
-# Taxa de captura: K mostra/esconde, . compara (G e o Fight or Flight)
+# --- Mods ---------------------------------------------------------------------
+key_key.cobblemonboxlink.open_pc.desc:key.keyboard.backslash
+key_accessories.key.open_accessories_screen:key.keyboard.unknown
 key_key.catchrate.toggle_hud:key.keyboard.k
 key_key.catchrate.show_comparison:key.keyboard.period
+key_key.catchrate.reset_position:key.keyboard.unknown
+key_key.catchrate.move_up:key.keyboard.unknown
+key_key.catchrate.move_down:key.keyboard.unknown
+key_key.catchrate.move_left:key.keyboard.unknown
+key_key.catchrate.move_right:key.keyboard.unknown
+key_key.catchrate.cycle_anchor:key.keyboard.unknown
+key_key.cobblemon.hideparty:key.keyboard.unknown
+key_key.cobblemon.summary:key.keyboard.c
+key_key.cobblemon.downshiftparty:key.keyboard.down
+key_key.cobblemon.upshiftparty:key.keyboard.up
+key_key.cobblemon.throwpartypokemon:key.keyboard.r
+key_key.cobblemon.ridingfreelook:key.keyboard.left.alt
+key_key.cobblemon-battle-extras.battle_logs:key.keyboard.grave.accent
+key_key.cobblemonraiddens.mouse:key.keyboard.left.alt
+key_key.cobblemonraiddens.accept:key.keyboard.y
+key_key.cobblemonraiddens.deny:key.keyboard.d
+key_key.entityculling.toggle:key.keyboard.unknown
+key_equipmentcompare.key.showTooltips:key.keyboard.left.shift
 key_key.fightorflight.startbattle:key.keyboard.g
+key_key.fightorflight.should_display_notification_bar:key.keyboard.unknown
+key_key.fightorflight.moveslot1:key.keyboard.unknown
+key_key.fightorflight.moveslot2:key.keyboard.unknown
+key_key.fightorflight.moveslot3:key.keyboard.unknown
+key_key.fightorflight.moveslot4:key.keyboard.unknown
+key_key.fightorflight.cmdmode.move_attack:key.keyboard.unknown
+key_key.fightorflight.cmdmode.move:key.keyboard.unknown
+key_key.fightorflight.cmdmode.stay:key.keyboard.unknown
+key_key.fightorflight.cmdmode.attack:key.keyboard.unknown
+key_key.fightorflight.cmdmode.attack_position:key.keyboard.unknown
+key_key.fightorflight.cmdmode.auto_battle:key.keyboard.unknown
+key_key.fightorflight.cmdmode.nocmd:key.keyboard.unknown
+key_key.fightorflight.cmdmode.clear:key.keyboard.unknown
+key_key.jade.config:key.keyboard.keypad.0
+key_key.jade.show_overlay:key.keyboard.keypad.1
+key_key.jade.toggle_liquid:key.keyboard.keypad.2
+key_key.jade.narrate:key.keyboard.keypad.5
+key_key.jade.show_details_alternative:key.keyboard.unknown
+key_key.lumymon.access_pc:key.keyboard.p
+key_key.lumymon.dismount:key.mouse.4
+key_key.modmenu.open_menu:key.keyboard.unknown
+key_supplementaries.keybind.quiver:key.keyboard.unknown
 key_key.more_cobblemon_tweaks.open_config:key.keyboard.f9
-
-
-# --- Outros: X marcar no mapa (Ping Wheel) - V trocar ofertas (Trade Cycling) -----
-key_key.pingwheel.ping_location:key.keyboard.x
+key_key.pingwheel.ping_location:key.mouse.middle
 key_key.pingwheel.open_settings:key.keyboard.unknown
-key_key.trade_cycling.cycle_trades:key.keyboard.v
-
-# --- Talking Heads: ` (crase) liga/desliga, para nao brigar com o H ------------------
-key_talkingheads.keybinding.modToggle:key.keyboard.grave.accent
-key_talkingheads.keybinding.modSettings:key.keyboard.unknown
-
-# --- Acessorios: H (a tecla de esconder icones da voz foi liberada) ------------------
-key_accessories.key.open_accessories_screen:key.keyboard.h
-
-# --- B: mochila (Sophisticated Backpacks) -------------------------------------------
 key_keybind.sophisticatedbackpacks.open_backpack:key.keyboard.b
 key_keybind.sophisticatedbackpacks.inventory_interaction:key.keyboard.unknown
 key_keybind.sophisticatedbackpacks.tool_swap:key.keyboard.unknown
-key_keybind.sophisticatedbackpacks.sort:key.keyboard.unknown
+key_keybind.sophisticatedbackpacks.sort:key.mouse.middle
+key_keybind.sophisticatedbackpacks.toggle_upgrade_3:key.keyboard.unknown
+key_keybind.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.unknown
+key_keybind.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.unknown
+key_keybind.sophisticatedbackpacks.toggle_upgrade_5:key.keyboard.unknown
+key_keybind.sophisticatedbackpacks.toggle_upgrade_4:key.keyboard.unknown
 key_keybind.sophisticatedstorage.sort:key.keyboard.unknown
-
-# --- Aljava do Supplementaries: virgula ----------------------------------------------
-key_supplementaries.keybind.quiver:key.keyboard.comma
+key_talkingheads.keybinding.modToggle:key.keyboard.unknown
+key_talkingheads.keybinding.modSettings:key.keyboard.unknown
+key_key.toms_storage.open_terminal:key.mouse.5
+key_key.trade_cycling.cycle_trades:key.keyboard.unknown
+key_key.push_to_talk:key.keyboard.caps.lock
+key_key.whisper:key.keyboard.unknown
+key_key.mute_microphone:key.keyboard.comma
+key_key.disable_voice_chat:key.keyboard.unknown
+key_key.hide_icons:key.keyboard.unknown
+key_key.voice_chat:key.keyboard.v
+key_key.voice_chat_settings:key.keyboard.unknown
+key_key.voice_chat_group:key.keyboard.unknown
+key_key.voice_chat_toggle_recording:key.keyboard.unknown
+key_key.voice_chat_adjust_volumes:key.keyboard.unknown
+key_gui.xaero_minimap_settings:key.keyboard.unknown
+key_gui.xaero_minimap_server_profiles:key.keyboard.unknown
+key_gui.xaero_zoom_in:key.keyboard.unknown
+key_gui.xaero_zoom_out:key.keyboard.unknown
+key_gui.xaero_new_waypoint:key.keyboard.n
+key_gui.xaero_waypoints_key:key.keyboard.u
+key_gui.xaero_enlarge_map:key.keyboard.unknown
+key_gui.xaero_toggle_map:key.keyboard.unknown
+key_gui.xaero_toggle_waypoints:key.keyboard.unknown
+key_gui.xaero_toggle_map_waypoints:key.keyboard.unknown
+key_gui.xaero_toggle_slime:key.keyboard.unknown
+key_gui.xaero_toggle_grid:key.keyboard.unknown
+key_gui.xaero_instant_waypoint:key.keyboard.keypad.add
+key_gui.xaero_switch_waypoint_set:key.keyboard.unknown
+key_gui.xaero_display_all_sets:key.keyboard.unknown
+key_gui.xaero_toggle_light_overlay:key.keyboard.unknown
+key_gui.xaero_toggle_entity_radar:key.keyboard.unknown
+key_gui.xaero_reverse_entity_radar:key.keyboard.unknown
+key_gui.xaero_toggle_manual_cave_mode:key.keyboard.unknown
+key_gui.xaero_alternative_list_players:key.keyboard.unknown
+key_gui.xaero_toggle_tracked_players_on_map:key.keyboard.unknown
+key_gui.xaero_toggle_tracked_players_in_world:key.keyboard.unknown
+key_gui.xaero_toggle_pac_chunk_claims:key.keyboard.unknown
+key_gui.xaero_open_map:key.keyboard.m
+key_gui.xaero_open_settings:key.keyboard.unknown
+key_gui.xaero_world_map_server_settings:key.keyboard.unknown
+key_gui.xaero_map_zoom_in:key.keyboard.unknown
+key_gui.xaero_map_zoom_out:key.keyboard.unknown
+key_gui.xaero_quick_confirm:key.keyboard.right.shift
+key_gui.xaero_toggle_dimension:key.keyboard.unknown
+key_zoomify.key.zoom:key.keyboard.z
+key_zoomify.key.zoom.secondary:key.keyboard.unknown
+key_iris.keybind.reload:key.keyboard.unknown
+key_iris.keybind.toggleShaders:key.keyboard.f10
+key_iris.keybind.shaderPackSelection:key.keyboard.unknown
+key_iris.keybind.wireframe:key.keyboard.unknown
