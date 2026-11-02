@@ -429,6 +429,10 @@ hash = "fd56a0cff0fa0172c35309f52e7bf76731abde661b03977bc8380bba687cbe98"
 metafile = true
 
 [[files]]
+file = "mods/lani-battle-fix.jar"
+hash = "a19f8070db6a14e24c1598a05e07b5e48793e53a9071325ccd6f4992b784584c"
+
+[[files]]
 file = "mods/leaves-be-gone.pw.toml"
 hash = "5e9851dbc57baf5c44190662838ba15248a29238de6e070d959d8e48fe144005"
 metafile = true
