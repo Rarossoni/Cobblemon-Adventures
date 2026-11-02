@@ -5,6 +5,10 @@ file = "config/amendments-client.json"
 hash = "763bfb81952a94ddc673a8c9adee7bcf571f5c2a22fd83ba59d0bf46cde12ebb"
 
 [[files]]
+file = "config/cobblemon-battle-extras.json"
+hash = "2fb292dfe642c5e3738e9b5fa3f270349b63ab5f53981deac48ca5fa903e0a88"
+
+[[files]]
 file = "config/defaultoptions/keybindings.txt"
 hash = "f197384d937d1d0b46da8fb5162d0574fed672e12ec6b7a3144faba6a4749c0e"
 
