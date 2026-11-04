@@ -82,7 +82,7 @@ hash = "6c5fa4ce43c952420f04d85d86bfbd15436d31f28d478767f774f74f356bb553"
 
 [[files]]
 file = "config/paxi/datapacks/lani-rules/data/lani/function/cleanup.mcfunction"
-hash = "27892f742275adb1ad8428a42e14c7c25642370d5bdb834a7d85aa9a3ff2a4a8"
+hash = "d1499f1341aff791779505813dbd5d059e5ed7c8173e22a80cf78115030cedcf"
 
 [[files]]
 file = "config/paxi/datapacks/lani-rules/data/lani/function/rules.mcfunction"
