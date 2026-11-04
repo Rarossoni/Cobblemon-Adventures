@@ -22,7 +22,7 @@ hash = "f197384d937d1d0b46da8fb5162d0574fed672e12ec6b7a3144faba6a4749c0e"
 
 [[files]]
 file = "config/paxi/datapacks/COBBLEVERSE-DP-v31.zip"
-hash = "24344c64d49cad1e4743276472f5598ed32d1c002f5ebb881b9e0cf7bc1a77c6"
+hash = "5b7da7c9e861608ea34fe5690e72176e11d63330ce039f12dfc8525988eb4544"
 
 [[files]]
 file = "config/paxi/datapacks/COBBLEVERSE-RCT-DP-v20.zip"
@@ -438,7 +438,7 @@ metafile = true
 
 [[files]]
 file = "mods/lani-battle-fix.jar"
-hash = "a19f8070db6a14e24c1598a05e07b5e48793e53a9071325ccd6f4992b784584c"
+hash = "f108f5b98d892230730118f3642ef5bbe4ab45b9f5abb70bf7b169e69939fef0"
 
 [[files]]
 file = "mods/leaves-be-gone.pw.toml"
@@ -791,7 +791,7 @@ hash = "2cec17def69ce520b07fab67eea8c51a94a410a981d50ca4673e463453530e7b"
 
 [[files]]
 file = "resourcepacks/cobbleverse-rp.zip"
-hash = "565eb75cb114563a49955eff6c1d5fdd32c06d6198ca743cbc700fc5bbacc9af"
+hash = "a5d01ee532474ece6fea8f3e377e786020f147760bc96255510b22aaff811267"
 
 [[files]]
 file = "resourcepacks/comforts-modernized.pw.toml"
