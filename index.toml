@@ -9,6 +9,10 @@ file = "config/cobblemon-battle-extras.json"
 hash = "2fb292dfe642c5e3738e9b5fa3f270349b63ab5f53981deac48ca5fa903e0a88"
 
 [[files]]
+file = "config/cobbreeding/main.json"
+hash = "13add079e4dc30c3b283e8632a9777d3d0e7128b8a16fb4b484b5274a0d050cb"
+
+[[files]]
 file = "config/defaultoptions/keybindings.txt"
 hash = "f197384d937d1d0b46da8fb5162d0574fed672e12ec6b7a3144faba6a4749c0e"
 
@@ -82,7 +86,7 @@ hash = "3c8d39a2de1abd7d10ab8850f870e78f9fa7da6b78f899cc009fa9c99ba0d065"
 
 [[files]]
 file = "config/paxi/datapacks/lani-rules/data/lani/function/starter_kit.mcfunction"
-hash = "3a6a6bf984d7e494f67af9a48bc1603af4abe09c505f873f81e6ef3f89b37610"
+hash = "2a71a19366ce79445bc684c30b6ee104c02f87d1e5c5ff54a14d0750ace130d1"
 
 [[files]]
 file = "config/paxi/datapacks/lani-rules/data/lani/tags/entity_type/vanilla_mobs.json"
@@ -778,7 +782,7 @@ hash = "2cec17def69ce520b07fab67eea8c51a94a410a981d50ca4673e463453530e7b"
 
 [[files]]
 file = "resourcepacks/cobbleverse-rp.zip"
-hash = "8cd7d332eab870283ab0bd26281428c8ec3930b958e0383b362848d53ce6e6c4"
+hash = "565eb75cb114563a49955eff6c1d5fdd32c06d6198ca743cbc700fc5bbacc9af"
 
 [[files]]
 file = "resourcepacks/comforts-modernized.pw.toml"

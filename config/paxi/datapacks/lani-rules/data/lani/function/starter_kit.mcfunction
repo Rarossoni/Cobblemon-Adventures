@@ -1,4 +1,5 @@
 # Kit inicial ao escolher o primeiro Pokemon
+rctmod player set series kanto @s
 give @s cobblemon:poke_ball 10
 give @s rctmod:trainer_card 1
 give @s sophisticatedbackpacks:backpack 1
