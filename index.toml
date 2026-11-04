@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/accessories.json5"
+hash = "aa01d32bb1797bfe291dd0d4760652c5409580313446347d9a447619c2a68e6a"
+
+[[files]]
 file = "config/amendments-client.json"
 hash = "763bfb81952a94ddc673a8c9adee7bcf571f5c2a22fd83ba59d0bf46cde12ebb"
 
@@ -739,6 +743,11 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "af20070dd9497817a83162c17b181a0a44f7213ea302d059a81c5aed02d0c877"
+metafile = true
+
+[[files]]
+file = "mods/yigd.pw.toml"
+hash = "5be05538347e59b65357ecb31c28c90edd3769309fa864222d7116ccd7e8a446"
 metafile = true
 
 [[files]]
