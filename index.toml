@@ -138,7 +138,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "050ab41090da1bc716b5c302cc44ee6645458ee324e44cb7b6f705572e406468"
+hash = "55595bbf8286301f8c5232347553e098530cdb429332b6b687ae3835761d4bac"
 metafile = true
 
 [[files]]
@@ -153,7 +153,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "d4e5754ace89491be15f81ec923c0a6a7be37a344cc6677a0ce4d013c2d7fbb7"
+hash = "f8bf884ab53c3fd72d4b849f6636288c20486e53f109a5c0f4fd83266959a345"
 metafile = true
 
 [[files]]
@@ -243,7 +243,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-counter.pw.toml"
-hash = "19e32322358b2bb62bfb410da460c2a867fdc18cc7e6eff01d6d2eb7d2ef85c6"
+hash = "50046f9dbf559c7137d9022e288cf921ebe4f69c04718a982f695025b246fd5c"
 metafile = true
 
 [[files]]
@@ -313,7 +313,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobbleworkers.pw.toml"
-hash = "46a64dacde8ea2978d8f300a34d76cedb953566d018bc87bd7d58bd2f6aba21d"
+hash = "421cbbef931628621daf6b04d96a0c1d0d28e6df36128fcd5f001463acf0e5ce"
 metafile = true
 
 [[files]]
@@ -358,7 +358,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "d48e8cd62f6c1d9f9c61313e1912b4f4413e112827deaa847760b3269a3d67d0"
+hash = "e94acf8533961d33ddb5b4ddc36562d11edabfa970fe1718d579ffd706e88552"
 metafile = true
 
 [[files]]
@@ -512,7 +512,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "4f7d256a29e93b1620275b39f340d0819de92b744f35b0e53a3dbeb587b9d9bf"
+hash = "d12419cd451d9e8a75650c956fcfa0510bf3b01306db48d1f52244445b908e38"
 metafile = true
 
 [[files]]
@@ -537,7 +537,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "920f38e9647202e8f98de3343fe062b835986d9243283c7333ad3f303201edd8"
+hash = "013dca1bafa6658c3a25872ee02c35d268e1632c6fb8a694504e283c829c5e64"
 metafile = true
 
 [[files]]
@@ -587,7 +587,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "ce3b477f9cccee1f7a8e3c9923ab7e7cb0856fff06f78be24c4185bf6676afa0"
+hash = "989cde9caba6f1b61aae36f9048725335a8da1d90ad33dc57a58ef3c04d6858b"
 metafile = true
 
 [[files]]
@@ -637,7 +637,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "c321bf91a7e35e59f0495d7674f82eba07da57fe3cbeb81477c382970a88727d"
+hash = "e0a1d9bf5386206f3c652c9d422405519110de7c4ab7f9271f4cb355b785e6ae"
 metafile = true
 
 [[files]]
@@ -682,7 +682,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "a4958d552328f14d5742470e1154f0b2f5d4fbefecf29050b252dd4061a4bb0b"
+hash = "ebabdbb621695e469e90e3535864975b6f3735dfa5ee9f87d31030a2a62761c7"
 metafile = true
 
 [[files]]
